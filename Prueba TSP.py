@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 24 10:59:05 2020
-
-@author: matibarri
-"""
-
 import sys
 import numpy as np
 from docplex.mp.model import Model
